@@ -33,3 +33,11 @@ to complete the full cycle it kept stopping after one because I was changing
 the value of the list on each redistribution... once I figured that out, easy.
 
 Day 6 p2: easy again. just run the function one more time.
+
+Day 7: I'm pretty proud of working this one out without looking anywhere for
+help. Ultimately it was more about remembering how to process text to cut
+the lines up.
+
+Day 7 p2: Here, on the other hand, I'm stuck. I quit for now and might
+go back later. Ultimately since I'm not getting up at midnight to do these
+I'm never going to place on the board anyway so fuck it.
